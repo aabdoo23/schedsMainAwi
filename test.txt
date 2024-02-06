@@ -1,0 +1,17 @@
+Instructor Name: Mohamed Ashraf Khedr
+Course Name: CSCI112 Intermediate Programming
+Section: 05B
+Subtype: Lab
+Schedule: [['Thursday', '8:30 AM', '10:29 AM']]
+
+Instructor Name: Instructor pending
+Course Name: CSCI205 Introduction to Computer Systems
+Section: 01
+Subtype: Lecture
+Schedule: [['Monday', '5:30 PM', '7:29 PM']]
+
+Instructor Name: Instructor pending
+Course Name: CSCI205 Introduction to Computer Systems
+Section: 02
+Subtype: Lecture
+Schedule: [['Thursday', '10:30 AM', '12:29 PM']]
